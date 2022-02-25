@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    background-color: #131313;
+  }
+  
+  h1 {
+    color: white;
+    font-family: 'Roboto', 'sans-serif';
+    text-align: center;
+  }
+  
+  h2 {
+      margin-left: 10px;
+    color: steelblue;
+  }
+  
+  .media-picture {
+    height: 490px;
+    background-image: url(../img/avengers-heroes-endgame-papel-pintado-2560x1080_14.jpg);
+    background-size: cover;
+  }
+  
+  .review-score {
+    color: white;
+    background-color: #e6bd09;
+    padding: 12px;
+  }
+  
+  p {
+    padding: 10px;
+    color: #bdbdbd;
+    font-family: 'Roboto', 'sans-serif';
+  }
+  
+  a {
+    margin-left: 10px;
+    color: yellow;
+  }
+  
+  .margem-texto {
+      margin-left: 10px;
+  }
